@@ -30,7 +30,7 @@ I'm an avid runner in my spare time, looking to tackle the elusive marathon agai
 
 ## 📫 How to reach me:
 
-linkedin: www.linkedin.com/in/jeffrey-lim-295733325
+linkedin: www.linkedin.com/in/jeffrey-lim24
 
 email: jeffreylimhms@gmail.com
 

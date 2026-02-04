@@ -9,6 +9,7 @@
 ### 🌱 I’m currently learning:
 - AI & Machine Learning
 - Python
+- C
 
 ### 👯 I’m looking to collaborate on:
 - Project ReRun, looking for like-minded individuals to join me on my startup journey!
